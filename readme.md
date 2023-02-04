@@ -61,12 +61,21 @@ Como um adendo final, minhas dificuldades na implementação foram especialmente
 ### 5. **Links**
 * Haskell:
 [SVG(W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
+
 [Documentação System.random](https://hackage.haskell.org/package/random-1.2.1.1)
+
 [Random numbers in Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/randoms)
+
 * Java:
+
 [Bibliotecas SVG em JS - Willian Justen](https://willianjusten.com.br/manipulando-svg-com-js)
+
 [Manipulação de arquivos em Java](https://www.w3schools.com/java/java_files.asp)
+
 * Comparativo:
+
 [OOP vs Funcional - Lissa Ferreira](https://dev.to/feministech/qual-e-a-diferenca-entre-programacao-orientada-a-objetos-e-funcional-347e)
+
 [Imperativa vs Funcional - Celso Junior](https://pt.linkedin.com/pulse/programação-imperativa-vs-funcional-celso-junior)
+
 [Prog. Funcional - DevMedia (exemplos for/forEach)](https://www.devmedia.com.br/programacao-funcional-codigo-limpo-e-padroes-de-projeto/32902)
