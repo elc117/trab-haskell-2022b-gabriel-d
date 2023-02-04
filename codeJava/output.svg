@@ -1,0 +1,8 @@
+<svg height='1000' width='1000' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='500' cy='500' r='500' fill='rgb(118,91,120)'/>
+<circle cx='500' cy='500' r='400' fill='rgb(97,10,179)'/>
+<circle cx='500' cy='500' r='300' fill='rgb(115,186,198)'/>
+<circle cx='500' cy='500' r='200' fill='rgb(80,22,4)'/>
+<circle cx='500' cy='500' r='100' fill='rgb(82,7,159)'/>
+<polygon points='116,642 66,692 116,742 166,692' stroke='black' fill='rgb(255,0,0)'/>
+</svg>
