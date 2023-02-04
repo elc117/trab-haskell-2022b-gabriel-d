@@ -1,6 +1,7 @@
 ### Gabriel Atarão Denardi
 ## **Programação Funcional – Geração de Imagens Vetoriais (SVG)** 
 ![Logo Haskell x Java](https://imgur.com/DB7Fo8W.png)
+
 [Código em Haskell (Repl.it)](https://replit.com/@GabrielSVS/2022b-svg-Haskell) - [Código em Java (Repl.it)](https://replit.com/@GabrielSVS/2022b-svg-Java)
 ### 1. **Objetivo**
 Foram desenvolvidos dois códigos equivalentes, um deles sendo em *Haskell*, e o outro, em *Java*. Estes geram uma imagem composta, aproveitando-se do formato SVG (*Scalable Vector Graphics*), onde contém diferentes elementos, que com o auxílio de geradores *pseudo*-aleatórios de números, alteram a saída do programa a cada execução. Por fim, estes serão comparados de modo a definir suas diferenças, e semelhanças.
