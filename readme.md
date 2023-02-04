@@ -60,6 +60,7 @@ Como um adendo final, minhas dificuldades na implementação foram especialmente
 
 ### 5. **Links**
 * Haskell:
+
 [SVG(W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
 
 [Documentação System.random](https://hackage.haskell.org/package/random-1.2.1.1)
